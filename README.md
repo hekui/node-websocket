@@ -1,3 +1,3 @@
 # node-websocket
 
-websocket-demo
+websocket demo
