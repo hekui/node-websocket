@@ -1,0 +1,4 @@
+[2020-06-03T11:09:21.353] [ERROR] http - uncaughtException: listen EADDRINUSE: address already in use :::3008
+[2020-06-03T11:10:09.699] [ERROR] http - "GET /favicon.ico" 404 0ms "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36"
+[2020-06-03T14:28:44.029] [ERROR] http - uncaughtException: listen EADDRINUSE: address already in use :::3008
+[2020-06-03T14:48:25.534] [ERROR] http - uncaughtException: listen EADDRINUSE: address already in use :::3008
